@@ -7,10 +7,14 @@ $ apt update
 $ apt upgrade
 $ pkg install python 
 $ pkg install git
-$ pip install -r requirements.txt
+$ pip install mechanize
+$ pip install py3dns
+$ pip install validate_email
+$ pip install requests
+$ pip install hashlib
 $ git clone https://github.com/rhaby/insta-checker
 $ cd insta-checker
-$ python new.cpython-39.pyc
+$ python new.py
 ```
 #Telegarm | @ciku370
 #insta | ali.rhaby

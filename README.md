@@ -14,7 +14,9 @@ $ pip install requests
 $ pip install hashlib
 $ git clone https://github.com/rhaby/insta-checker
 $ cd insta-checker
-$ python new.py
+$ python new.py 
+new update 
+$ python new.exe 
 ```
 #Telegarm | @ciku370
 #insta | ali.rhaby
